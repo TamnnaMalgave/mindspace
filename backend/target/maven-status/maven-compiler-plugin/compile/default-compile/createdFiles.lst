@@ -1,0 +1,14 @@
+com\example\mindspace\controller\JournalController.class
+com\example\mindspace\config\CorsConfig$1.class
+com\example\mindspace\config\SecurityConfig.class
+com\example\mindspace\model\dto\LoginRequest.class
+com\example\mindspace\model\JournalEntry.class
+com\example\mindspace\repository\JournalRepository.class
+com\example\mindspace\model\User.class
+com\example\mindspace\MindspaceApplication.class
+com\example\mindspace\config\CorsConfig.class
+com\example\mindspace\model\dto\RegisterRequest.class
+com\example\mindspace\controller\AuthController.class
+com\example\mindspace\security\JwtProvider.class
+com\example\mindspace\repository\UserRepository.class
+com\example\mindspace\service\AuthService.class

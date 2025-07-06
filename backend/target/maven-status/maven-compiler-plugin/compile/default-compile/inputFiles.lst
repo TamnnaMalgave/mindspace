@@ -1,0 +1,13 @@
+D:\REACT\Mindspace-main\Mindspace-main\backend\src\main\java\com\example\mindspace\security\JwtProvider.java
+D:\REACT\Mindspace-main\Mindspace-main\backend\src\main\java\com\example\mindspace\model\dto\RegisterRequest.java
+D:\REACT\Mindspace-main\Mindspace-main\backend\src\main\java\com\example\mindspace\controller\JournalController.java
+D:\REACT\Mindspace-main\Mindspace-main\backend\src\main\java\com\example\mindspace\repository\UserRepository.java
+D:\REACT\Mindspace-main\Mindspace-main\backend\src\main\java\com\example\mindspace\controller\AuthController.java
+D:\REACT\Mindspace-main\Mindspace-main\backend\src\main\java\com\example\mindspace\model\dto\LoginRequest.java
+D:\REACT\Mindspace-main\Mindspace-main\backend\src\main\java\config\CorsConfig.java
+D:\REACT\Mindspace-main\Mindspace-main\backend\src\main\java\com\example\mindspace\model\JournalEntry.java
+D:\REACT\Mindspace-main\Mindspace-main\backend\src\main\java\com\example\mindspace\model\User.java
+D:\REACT\Mindspace-main\Mindspace-main\backend\src\main\java\com\example\mindspace\repository\JournalRepository.java
+D:\REACT\Mindspace-main\Mindspace-main\backend\src\main\java\com\example\mindspace\MindspaceApplication.java
+D:\REACT\Mindspace-main\Mindspace-main\backend\src\main\java\config\SecurityConfig.java
+D:\REACT\Mindspace-main\Mindspace-main\backend\src\main\java\com\example\mindspace\service\AuthService.java
