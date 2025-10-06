@@ -48,7 +48,8 @@ The homepage is the welcoming entry point.
 
 
 
-![About Us](screenshots/aboutus.png)
+![About Us]<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/18468979-a6cd-45c5-a02b-430383ec3a7c" />
+
 
 ---
 
