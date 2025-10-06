@@ -31,7 +31,8 @@ The homepage is the welcoming entry point.
 
 
 
-![Homepage](screenshots/home1.png)
+![Homepage]<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b6a99ed9-5ff0-4cc4-938d-2def282e6bc7" />
+
 
 
 ---
@@ -65,7 +66,8 @@ The homepage is the welcoming entry point.
 
 
 
-![Contact Us](screenshots/contactus.png)
+![Contact Us](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6c3a4e94-6a58-463c-ac95-4eca2698fc8b" />
+)
 
 ---
 
@@ -82,10 +84,12 @@ The homepage is the welcoming entry point.
 
 
 
-![Signup](screenshots/signup.png)
+![Signup](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c0b7f5d5-15b4-4adf-98a6-604f45dca257" />
+)
 
 
-![Login](screenshots/login.png)
+![Login](s<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a29cd12f-9b5b-46e5-bc37-4eb031d16dbe" />
+)
 
 
 ---
@@ -102,10 +106,12 @@ The homepage is the welcoming entry point.
 
 
 
-![Dashboard](screenshots/dashboard1.png)
+![Dashboard](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f4c90631-e2aa-4bff-8938-4b75b435b146" />
+)
 
 
-![Dashboard](screenshots/dashboard2.png)
+![Dashboard](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f815a17d-c3c8-4469-93bc-f41a66339085" />
+)
 
 ---
 
@@ -122,9 +128,11 @@ The homepage is the welcoming entry point.
 
 
 
-![Mood Insights](screenshots/moodinsights1.png)
+![Mood Insights](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/56d96feb-53cd-4497-96cf-65b5c60debc1" />
+)
 
-![Mood Insights](screenshots/moodinsights2.png)
+![Mood Insights](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/51e759ce-a778-4379-927d-a89dbf7352be" />
+)
 
 ---
 
@@ -169,47 +177,55 @@ The homepage is the welcoming entry point.
 
 **- Dashboard**
 
-![Dashboard](screenshots/dashboard1.png)
+![Dashboard](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/87e24ff8-dfc4-4270-8453-22e439a2aa65" />
+)
 
 ---
 
 
-![Dashboard](screenshots/dashboard2.png)
+![Dashboard](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bf191042-d3c6-4128-b009-ca02395e6b74" />
+)
 
 ---
 
 **- Profile**
   
-![Profile](screenshots/profile.png)
+![Profile](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d62c4f11-ed40-4cc3-acfb-4d2905ab3860" />
+)
 
 ---
 
 **- Apply search filters by date, mood, content,etc.**
   
-![search_filters](screenshots/searchfilters.png)
+![search_filters](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/97cd9af8-7f42-46a1-bbbc-82a9d238f82f" />
+)
 
 ---
 
 **- Resource Recommendations**
 
-![Resource](screenshots/res_recommendation1.png)
+![Resource](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d1376c9a-de42-479d-afba-a47c2cc72b0b" />
+)
 
 ---
 
-![Resource](screenshots/res_recommendation2.png)
+![Resource](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1a47b55c-57d7-4ad7-bac7-12eeaaf25cae" />
+)
 
 ---
 
 **- Mood insights**
 
-![Moodinsights](screenshots/moodinsights1.png)
+![Moodinsights](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/52148337-90f5-416a-a66d-a319e1cfcb43" />)
+
 
 ---
 
-![Moodinsights](screenshots/moodinsights2.png)
+![Moodinsights](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ff7ef3cb-cac0-4a85-b645-9ad72431b7f3" />
+)
 
 
 ---
 
 ## Author
-Shruti Chavan.
+Tamnna Malgave.
