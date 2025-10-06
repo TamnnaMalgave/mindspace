@@ -106,12 +106,12 @@ The homepage is the welcoming entry point.
 
 
 
-![Dashboard](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f4c90631-e2aa-4bff-8938-4b75b435b146" />
-)
+![Dashboard]<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/224ac905-54a0-43b5-b970-c15049d7a6e2" />
 
 
-![Dashboard](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f815a17d-c3c8-4469-93bc-f41a66339085" />
-)
+
+![Dashboard]<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/45ac0797-bed7-4720-b3d8-fd7b4698812b" />
+
 
 ---
 
@@ -128,7 +128,8 @@ The homepage is the welcoming entry point.
 
 
 
-![Mood Insights](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/56d96feb-53cd-4497-96cf-65b5c60debc1" />
+![Mood Insights]<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/31180552-0489-4cdc-8bfe-41f169595f7e" />
+
 )
 
 ![Mood Insights](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/51e759ce-a778-4379-927d-a89dbf7352be" />
